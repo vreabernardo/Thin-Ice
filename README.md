@@ -10,6 +10,28 @@ Thin Ice Game from Club Penguin brought to life in Python using Pygame.
 
 Recreate the nostalgic Thin Ice Game from Club Penguin in Python using the Pygame framework. The current version offers a playable experience up to level 13. However, there are exciting features and improvements still in the pipeline.
 
+## How to Play
+
+1. **Movement:**
+   - Use the arrow keys (UP, DOWN, LEFT, RIGHT) to navigate the player through the maze.
+     
+3. **Level Navigation:**
+   - Press "N" to advance to the next level (cheat).
+   - Press "B" to go back to the previous level (cheat).
+     
+4. **Game Reset:**
+   - Press "R" to reset the current game.
+     
+5. **Special Actions:**
+   - Pick up treasures to earn points.
+   - Unlock doors by picking up the golden key and approaching the keyhole.
+   - Pass over floor tiles to break them and earn points.
+   - Earn bonus points when all floor tiles are destroyed.
+
+6. **Objective:**
+   - Reach the target location to advance to the next level.
+   - Solve each level by strategically navigating the ice maze.
+     
 ## To-Do List
 
 - Add the sound effects from the original game.
