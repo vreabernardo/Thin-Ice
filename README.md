@@ -8,7 +8,7 @@ Thin Ice Game from Club Penguin brought to life in Python using Pygame.
 
 ## Overview
 
-Recreate the nostalgic Thin Ice Game from Club Penguin in Python using the Pygame framework. The current version offers a playable experience up to level 13. However, there are exciting features and improvements still in the pipeline.
+Recreate the Thin Ice Game from Club Penguin in Python using Pygame. The current version offers a playable experience up to level 13. However, there are some features and improvements still in the pipeline to make the game fully playable up to level 19.
 
 ## How to Play
 
